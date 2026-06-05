@@ -13,7 +13,7 @@ import tls_client
 
 CLIENT_TOKEN = "e1393935a959b4020a4491574f6490129f678acdaa92760471263db43487f823"
 
-channel = ""
+channel = "Zaeloh"
 channel_id = None
 stream_id = None
 max_threads = 0
